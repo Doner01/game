@@ -1,12 +1,10 @@
 const imageData: string[] = [
-    "https://ibb.co/yY8rQWM",
-    "https://ibb.co/G3XmvT2",
-    "https://ibb.co/DtWxRmv",
-    "https://ibb.co/LtDgJz9",
-    "https://ibb.co/zmyHMP6",
-    "https://ibb.co/vH6Kbsf",
-    "https://ibb.co/F0vwXhW"
-
+    "https://i.ibb.co/D87ZR56/AlanWake.png",
+    "https://i.ibb.co/rfg9Gs6/Avatar.png",
+    "https://i.ibb.co/JKtfs8G/Call-Of-Duty.png",
+    "https://i.ibb.co/hWxdZR2/GodOfWar.png",
+    "https://i.ibb.co/Rgx4FQj/Gta5.png",
+    "https://i.ibb.co/6m7f2vG/Horizon.png",
 ];
 
 export default imageData;

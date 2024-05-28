@@ -4,7 +4,7 @@ import imageData from "~utils/data";
 const AppRouter = () => {
     return (
         <div className="app_router">
-            <div className="bg-[url('/public/images/SpidermanBg.png')] w-full bg-no-repeat">
+            <div className="bg-[url('/public/images/SpidermanBg.png')] w-full bg-no-repeat bg-cover">
                 <div className="container pt-[23px]">
                     <div className="header bg-black text-white rounded-[24px] px-[16px] py-[24px]">
                         <div className="flex justify-between items-center">

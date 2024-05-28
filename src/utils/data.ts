@@ -1,10 +1,11 @@
 const imageData: string[] = [
-    '/public/images/Avatar.png',
-    '/public/images/Gta5.png',
-    '/public/images/Horizon.png',
-    '/public/images/CallOfDuty.png',
-    '/public/images/GodOfWar.png',
-    '/public/images/AlanWake.png'
+    "https://ibb.co/yY8rQWM",
+    "https://ibb.co/G3XmvT2",
+    "https://ibb.co/DtWxRmv",
+    "https://ibb.co/LtDgJz9",
+    "https://ibb.co/zmyHMP6",
+    "https://ibb.co/vH6Kbsf",
+    "https://ibb.co/F0vwXhW"
 
 ];
 
